@@ -1,0 +1,15 @@
+{
+    "name": "carl/mysql_load_test",
+    "description": "testing runtimes and mem usage for mysql inserts",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carl Morrissey",
+            "email": "carl.morrissey@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.6"
+    }
+}
